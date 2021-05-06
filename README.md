@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm [Wing!](https://redteaming.net/), My Blog is [RedTeaming](https://redteaming.net/),I am an information security engineer from China.
+Hi, I'm [Wing!](https://redteaming.net/), My Blog is [RedTeaming](https://redteaming.net/),I am an information security engineer.
 
   <img align="right" alt="GIF" src="https://github.com/RedTeamWing/RedTeamWing/blob/master/code.gif?raw=true" width="500" height="320" />
   
