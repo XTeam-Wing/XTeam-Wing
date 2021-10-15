@@ -26,7 +26,14 @@ Hi, I'm [Wing!](https://redteaming.net/), My Blog is [RedTeaming](https://redtea
 <br/>
 
 
-🤒🤒🤒
+在未来或许会开源的几个工具:
+- X-C2: 跨平台有GUI的C&C工具(Golang)
+- X-WebScan: Web自动化分布式扫描器(Vue+Python3+Celery)
+- X-InnerScan: 内网横向扫描工具,二开fscan(Golang)
+- X-AV: Shellcode静态免杀工具,支持多种加密方式以及加载方式,BypassEDR(Golang)
+- X-SharpScan: 域渗透自动化工具,还没开始动笔(.NET)
+- X-Poc: X-WebScan的漏洞扫描插件(Pocsuite3)
+- 
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RedTeamWing&show_icons=true&theme=vue" alt="RedTeamWing" />
 
