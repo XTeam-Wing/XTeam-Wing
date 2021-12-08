@@ -36,7 +36,7 @@ Hi, I'm [Wing!](https://redteaming.net/), My Blog is [RedTeaming](https://redtea
 - X-Poc: X-WebScan的漏洞扫描插件(Pocsuite3)
 
 <br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RedTeamWing&show_icons=true&theme=vue" alt="RedTeamWing" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=XTeam-Wing&show_icons=true&theme=vue" alt="RedTeamWing" />
 
 
 
