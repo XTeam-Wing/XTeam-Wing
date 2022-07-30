@@ -27,6 +27,8 @@ Hi, I'm [Wing!](https://redteaming.net/), My Blog is [RedTeaming](https://redtea
 
 
 在未来或许会开源的几个工具:
+
+- X-Go: 重写Py版本的X-WebScan,丢弃Celery吧.
 - X-C2: Teamserver服务端(Golang)
 - X-C2-GUI: Electron控制端(Vue)
 - X-WebScan: Web自动化分布式扫描器(Vue+Python3+Celery)
