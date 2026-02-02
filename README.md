@@ -12,9 +12,6 @@ Hi, I'm [Wing!](https://redteaming.net/),I am an information security engineer.
 - 🌱 I’m currently learning Golang,Csharp,Java; 
 - 💬 Ask me about anything, I am happy to help;
 - 💌 How to reach me: Email:redteam#aliyun.com
-- 📌 Blog:[RedTeaming](https://redteaming.net)
-
-
 
 <br/>
 
@@ -26,7 +23,7 @@ Project:
 
 
 <br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=XTeam-Wing&show_icons=true&theme=vue" alt="RedTeamWing" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=XTeam-Wing&show_icons=true&theme=vue" alt="Wing" />
 
 
 
